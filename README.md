@@ -1,5 +1,8 @@
 # GixTheGoblin
 Console Line Game
+Created while learning C# at Tech Elevator to explore the principals of OOP.
+Can be run when opened with Visual Studio.
+
 Player leads Gix through a series of up to 5 combats.
 Limited EP (energy point) pool can be used to Bite and Lick Wounds.
 Surviving all 5 encounters means victory.
